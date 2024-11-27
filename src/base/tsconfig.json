@@ -1,6 +1,6 @@
 {
   "extends": "ts-config-single-spa",
-  "files": ["src/opusxenta-root-config.ts"],
+  "files": ["src/base-root-config.ts"],
   "compilerOptions": {
     "declarationDir": "dist"
   },

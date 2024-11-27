@@ -1,6 +1,8 @@
 <template>
   <div class="hello">
-    <h1 class="text-3xl font-bold underline text-red-500 text-center">{{ msg }}</h1>
+    <h1 class="text-3xl font-bold underline text-red-500 text-center">
+      {{ msg }}
+    </h1>
   </div>
 </template>
 
@@ -16,5 +18,4 @@ export default defineComponent({
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
-<style scoped>
-</style>
+<style scoped></style>
